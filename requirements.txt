@@ -1,0 +1,10 @@
+langchain
+openai
+pydantic
+python-dotenv
+requests
+dotenv
+langchain_community
+langchain-experimental
+ollama
+langchain-ollama
