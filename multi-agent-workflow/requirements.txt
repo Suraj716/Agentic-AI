@@ -1,0 +1,39 @@
+# Multi-Agent Workflow Requirements
+# Core dependencies for the multi-agent system
+
+# Core LangChain and LangGraph dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.38
+langchain-experimental>=0.0.50
+langgraph>=0.0.40
+typing-extensions>=4.8.0
+
+# LLM Support
+openai>=1.0.0
+ollama>=0.1.0
+langchain-ollama>=0.0.1
+
+# MCP Integration
+fastapi>=0.104.0
+uvicorn>=0.24.0
+httpx>=0.25.0
+tenacity>=8.2.0
+prometheus-api-client>=0.5.3
+
+# Data Handling
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# UI Components
+streamlit>=1.28.0
+pandas>=2.0.0
+
+# Utilities
+uuid
+datetime
+json
+asyncio
+concurrent.futures
+time
